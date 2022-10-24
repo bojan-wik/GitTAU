@@ -6,4 +6,19 @@ public class BowlingGame2Test {
     public void lisaTestFour() {
 
     }
+
+    @Test
+    public void lisaTestFive() {
+        // contains a bug - fixed
+    }
+
+    @Test
+    public void lisaTestSix() {
+
+    }
+
+    @Test
+    public void lisaTestSeven() {
+
+    }
 }
